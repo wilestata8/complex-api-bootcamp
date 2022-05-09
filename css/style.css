@@ -1,0 +1,46 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background: linear-gradient(90deg, rgba(74,57,101,1) 5%, rgba(102,26,173,1) 20%, rgba(122,26,173,0.9388349089635855) 50%, rgba(102,26,173,1) 80%, rgba(74,57,101,1) 95%);
+  color: aliceblue;
+  font-family:'Poppins', sans-serif; 
+  border: 6px solid rgba(64, 20, 77, 0.8);
+  align-items: center;
+  margin: 0;
+  height: 401px;
+    width: 50%;
+    margin-top: 150px;
+    margin-left: 345px;
+    border-radius: 18%;
+
+}
+.direction{
+  font-style: italic;
+  margin-left: 40px;
+  font-size: 20px;
+}
+h2{
+  font-weight: 500;
+  font-size: 3em;
+  margin-left: 77px;
+}
+h1{
+  font-weight: 500;
+  font-style: italic;
+}
+p{
+  font-style: italic;
+  margin-left: 21px;
+}
+button{
+  background-color: rgba(64, 20, 77, 0.8);
+  color: whitesmoke;
+  width: 150px;
+  height: 50px;
+  font-size: 20px;
+  font-style: italic;
+  margin-left: 251px;
+  border: 1px solid red;
+}
